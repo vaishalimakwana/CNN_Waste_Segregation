@@ -52,21 +52,6 @@ Develop an effective waste segregation system using CNNs to accurately classify 
 - keras: 3.10.0  
 - scikit-learn: 1.4.2  
 
-## Usage
-1. Clone the repository.
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-3. Prepare your dataset in the specified format (images and labels).
-4. Run the training script:
-    ```bash
-    python train.py
-    ```
-5. Evaluate the model:
-    ```bash
-    python evaluate.py
-    ```
-
 ## Future Work and Improvements
 - Address class imbalance with data augmentation or class weighting.
 - Experiment with transfer learning using pretrained CNN models.
