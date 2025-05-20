@@ -24,6 +24,11 @@ Develop an effective waste segregation system using CNNs to accurately classify 
   - 80% training
   - 20% validation
   - Stratified splitting to maintain class balance
+    
+![image](https://github.com/user-attachments/assets/19a39b6b-b089-4fb0-a8e4-8ac90d37d30b)
+    
+![image](https://github.com/user-attachments/assets/0be2bb76-0907-4577-9f96-70faeb5628db)
+
 
 ## Model Architecture
 - Multi-layer CNN with convolutional, pooling, dropout, and dense layers
