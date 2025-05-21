@@ -63,6 +63,10 @@ Develop an effective waste segregation system using CNNs to accurately classify 
 - Hyperparameter tuning to improve accuracy and reduce loss.
 - Deploy the model into a web or mobile application for real-time waste segregation.
 
+## License
+Licensed under the MIT License © 2025 Vaishali — Free to use, modify, and distribute with proper attribution.  
+Provided "as is" without warranty for the CNN Waste Segregation project.
+
 ## Contact
 For questions or collaboration, please contact:  
 Vaishali Makwana  
